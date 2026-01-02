@@ -1,0 +1,49 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    margin:0;
+    background-color: #F4FFF8;
+    font-family: helvetica;
+}
+
+header {
+   background-color: #2E8B57;
+   text-align: center;
+    padding: 4px;
+    color:white;
+    border-bottom: solid gold;
+    border-width: 10px;
+}
+
+.fact-card {
+    margin-right: auto;
+    margin-left: 5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #A7D7C5;
+    text-align: left;
+    width: 60%;
+    border: solid rgb(72, 177, 72);
+    border-radius: 30px;
+}
+
+
+
+img {
+    width: 200px;
+    margin-left: 40px;
+}
+
+
+footer {
+   background-color: #2E8B57;
+   text-align: center;
+   padding: 4px;
+   color: white;
+   padding: 20px;
+   font-size: 20px;
+   border-top: solid gold;
+   border-width: 10px;
+}
